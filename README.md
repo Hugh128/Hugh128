@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hugh128.
+- 👋 Hi, I’m @hugh128.
 - 👀 I’m interested in application and web development.
 - 🌱 I’m currently learning python, html, css and javascript.
 - 💞️ I’m looking to collaborate on small projects to gain experience.
